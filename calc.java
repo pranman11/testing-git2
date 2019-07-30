@@ -3,6 +3,7 @@ public class calc{
 		return (x+y);
 	}
 	int mul(int x, int y){
+		//lknfaa
 		return (x*y);
 	}
 	int sub(int x, int y){
