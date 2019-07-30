@@ -9,6 +9,7 @@ public class calc{
 		return (x-y);
 	}
 	int div(int x, int y){
+		//j,nbhvgccbgnhmj,
 		return (x/y);
 	}
 }
