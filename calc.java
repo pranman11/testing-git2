@@ -6,6 +6,7 @@ public class calc{
 		return (x*y);
 	}
 	int sub(int x, int y){
+		//gjfbdjk
 		return (x-y);
 	}
 	int div(int x, int y){
